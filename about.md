@@ -6,4 +6,4 @@ permalink: /about/
 
 # About
 
-Coming soon.
+I'm about ready to write some blogposts.
