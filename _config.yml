@@ -18,19 +18,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-# Giscus comments
-# After setup, replace these placeholder values with your actual config.
-# Instructions:
-#   1. Create a public GitHub repo
-#   2. Enable GitHub Discussions on the repo (Settings → General → Features)
-#   3. Install the Giscus app: https://github.com/apps/giscus
-#   4. Go to https://giscus.app, select your repo, and copy the config values
-#   5. Fill in the values below
 giscus:
-  repo: "YOUR_GITHUB_USERNAME/YOUR_REPO"
-  repo_id: "YOUR_REPO_ID"
+  repo: "doubleyellows/blog"
+  repo_id: "R_kgDORQLyDw"
   category: "Announcements"
-  category_id: "YOUR_CATEGORY_ID"
+  category_id: "DIC_kwDORQLyD84C2a2k"
   mapping: "pathname"
   reactions_enabled: "1"
   emit_metadata: "0"
